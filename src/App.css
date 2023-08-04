@@ -1,0 +1,18 @@
+button, [type='button']{
+    background-color: #1677ff;
+}
+.anticon-search svg{
+    fill: #fff;
+}
+.pagination li{
+    background-color: #fff;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+.pagination li.active{
+    background-color: #1677ff;
+    color: #fff;
+}
