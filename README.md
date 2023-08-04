@@ -15,6 +15,10 @@ The page will reload when you make changes.
 
 You may also see any error in the console.
 
+## Online Preview
+
+Open [https://cricket-players-amber.vercel.app](https://cricket-players-amber.vercel.app) to view it in your browser.
+
 ## Screenshot
 
 ![screenshot](screenshot.png)
