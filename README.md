@@ -17,4 +17,4 @@ You may also see any error in the console.
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
